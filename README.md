@@ -14,7 +14,7 @@ No installation is required. Simply clone the repository to your local machine o
 
 
 Copy code:
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/your-username/rock-paper-scissors.git<br>
 Development Setup:
 To make changes to the game or view the source code, you can use any text editor or code editor of your choice.
 
