@@ -1,0 +1,81 @@
+@charset "ISO-8859-1";
+body {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+    margin:0;
+    padding:0;
+    min-height:100vh;
+    box-sizing:border-box;
+    background-image:url("https://wallpapers.com/images/featured/sky-mvehfqz6w2ges2dj.jpg");
+    background-size:cover;
+    background-position: center;
+}
+.data {
+    width:90%;
+    max-width:700px;
+    margin:40px auto;
+    background-color:rgba(255, 255, 255, 0.8);
+    padding:20px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1{
+	text-align:center;
+}
+.weatherimage{
+	align-items:center;
+	justify-content:center;
+	text-align:center;
+}
+.weatherinfo{
+	
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+    align-items: center; 
+}
+.weatherinfo h2 {
+    margin: 8px 0;
+    padding: 8px 0;
+    flex-basis: 48%;
+    text-align: center; /* Center-align text */
+}
+.first {
+    margin: 15%;
+    text-align: left;
+    width: 100%;
+    max-width: 500px;
+    height: auto;
+    padding: 30px;
+    border: 1px solid;
+    border-radius: 15px;
+    box-sizing: border-box;
+ box-shadow: inset;
+ background-color:rgba(0, 0, 0, 0.4);
+ box-shadow: 0 0 10px rgba(rgba(0, 0, 0, 0.2));
+ border: none;
+ color: rgb(222, 239, 112);
+ font-family:"Verdana";
+ margin-top:30px;
+}
+input[type="text"]{
+padding: 7px ;
+border-radius: 5px;
+border: none;
+}
+input[type=submit]{
+    padding: 7px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(65, 177, 211);
+    cursor: pointer;
+}
+P{
+	font-size:30px;
+	text-align:center;
+}
+.temp-city h2{
+	text-transform:uppercase;
+}
