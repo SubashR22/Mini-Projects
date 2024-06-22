@@ -107,3 +107,5 @@ The project uses the following dependencies:
 1.Enter the location in the input field on the home page.<br>
 2.Click the "Get Weather" button.<br>
 3.The application will display the current weather details for the specified location.<br>
+(![Screenshot (46)](https://github.com/SubashR22/repo1/assets/144207902/d3733394-ca7b-4c9a-9577-947eba0113a4)
+)
